@@ -1,0 +1,127 @@
+body{
+    padding: 25px;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    background-size: cover;
+}
+
+img.perfil{
+    width: 180px;
+    height: 180px;
+    float: right;
+    margin-top: 35px;
+}
+
+#icono{
+    margin-top: 10px;
+    margin-right: 10px;
+    width: 15px;
+    height: 18px;
+    vertical-align: sub;
+}
+
+address{
+    font-style: italic;
+    margin-bottom: 35px;
+}
+
+a{
+    color: black;
+    text-decoration-line: none;
+}
+
+span{
+    text-decoration-line: underline;
+}
+
+h1{
+    font-size: 250%;
+    margin-bottom: 20px;
+    /*color: red;*/
+}
+
+h2{
+    border-bottom: 3px;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-style: solid;
+    border-color: dimgrey;
+    background-color: seashell;
+    padding: 5px;
+    color: dimgrey;
+    font-weight: bold;
+}
+
+p.perfil{
+    font-size: 90%;
+    text-align: justify;
+}
+
+table.tablas1{
+    margin-left: 15px;
+}
+
+#titulo{
+    color: grey;
+    font-size: 90%;
+}
+
+strong{
+    font-weight: bold;
+    font-style: italic;
+    color: black;
+}
+
+#puesto{
+    font-weight: bold;
+    text-align: left;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+em{
+    font-style: oblique;
+    color: darkslategray;
+}
+
+#listapuesto{
+    margin-top: 0px;
+    list-style: disc;
+    font-size: small;
+    text-align: left;
+}
+
+th{
+    font-size: 80%;
+    color: grey;
+    text-align: left;
+    vertical-align: top;
+    height: 50px;
+    width: 200px;
+}
+
+td{
+    vertical-align: top;
+}
+
+table.tablas2{
+    padding-left: 0px;
+    font-size: 90%;
+    text-align: left;
+    width: 100%;
+}
+
+#habilidades{
+    font-weight: bold;
+    list-style: disc;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-left: 20px;
+    width: 100%;
+}
+
+#idiomas{
+    font-weight: bold;    
+    width: 36%;
+}
